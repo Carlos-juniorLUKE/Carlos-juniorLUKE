@@ -2,17 +2,17 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Carlos-juniorLUKE&theme=aura&show_icons=true)
 
+##
+<div align="left"> 
+<a href = "https://nadei.42sp.org.br/%22%3E"><img align="center" alt="Ste-C" height="135" width="135" src="https://nadei.42sp.org.br/img/InsigneaP3.png" target="_blank"></a> 
+</div>
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=6000&pause=1000&color=15AEF7&center=falso&vCenter=falso&repeat=verdadeiro&width=600&height=60&lines=Hello%2C+I'm+Carlos+Front-end+Mobile+and+Web+Junior;+Developer+at+(dart-Flutter)+;Participated+in+the+42SP+Pool!++%40Pisciner42SP)](https://git.io/typing-svg)
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Carlos-juniorLUKE&theme=merko&hide_border=&border_radius=5.3&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 
  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Carlos-juniorLUKE&layout=compact&hide_border=true&title_color=da70d6&text_color=da70d6&bg_color=0d1117" />
-</div>
-
-##
-<div align="left"> 
-<a href = "https://nadei.42sp.org.br/%22%3E"><img align="center" alt="Ste-C" height="135" width="135" src="https://nadei.42sp.org.br/img/InsigneaP3.png" target="_blank"></a> 
 </div>
 
 
