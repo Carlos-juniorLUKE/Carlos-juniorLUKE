@@ -9,7 +9,7 @@
 </div>
 
 ##
-<div align="right"> 
+<div align="left"> 
 <a href = "https://nadei.42sp.org.br/%22%3E"><img align="center" alt="Ste-C" height="135" width="135" src="https://nadei.42sp.org.br/img/InsigneaP3.png" target="_blank"></a> 
 </div>
 
