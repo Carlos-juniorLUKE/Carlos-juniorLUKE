@@ -7,7 +7,7 @@
 <a href = "https://nadei.42sp.org.br/%22%3E"><img align="center" alt="Ste-C" height="135" width="135" src="https://nadei.42sp.org.br/img/InsigneaP3.png" target="_blank"></a> 
 </div>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=6000&pause=1000&color=15AEF7&center=falso&vCenter=falso&repeat=verdadeiro&width=620&height=60&lines=Hello%2C+I'm+Carlos+Front-end+Mobile+and+Web+Junior;+Developer+at+(dart-Flutter)+;Participated+in+the+42SP+Pool!++%40Pisciner42SP)](https://git.io/typing-svg
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=6000&pause=1000&color=15AEF7&center=falso&vCenter=falso&repeat=verdadeiro&width=620&height=60&lines=Hello%2C+I'm+Carlos+Front-end+Mobile+and+Web+Junior;+Developer+at+(dart-Flutter)+;Participated+in+the+42SP+Pool!++%40Pisciner42SP)](https://git.io/typing-svg)
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Carlos-juniorLUKE&theme=merko&hide_border=&border_radius=5.3&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
