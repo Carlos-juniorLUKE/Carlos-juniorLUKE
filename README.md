@@ -13,7 +13,7 @@
 <a href = "https://nadei.42sp.org.br/%22%3E"><img align="center" alt="Ste-C" height="135" width="135" src="https://nadei.42sp.org.br/img/InsigneaP3.png" target="_blank"></a> 
 </div>
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Carlos-juniorLUKE&bg_color=0d1117&color=7b68ee&line=a020f0&point=87ceeb&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Carlos-juniorLUKE&bg_color=0d1117&color=7b68ee&line=a020f0&point=87ceeb&area=true&hide_border=true)](https://github.com/Carlos-juniorLUKE/github-readme-activity-graph)
 
 
 <p align="center">
