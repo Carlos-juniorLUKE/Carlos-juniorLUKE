@@ -8,6 +8,10 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Carlos-juniorLUKE&layout=compact&hide_border=true&title_color=da70d6&text_color=da70d6&bg_color=0d1117" />
 </div>
 
+##
+<div align="right"> 
+<a href = "https://nadei.42sp.org.br/%22%3E"><img align="center" alt="Ste-C" height="135" width="135" src="https://nadei.42sp.org.br/img/InsigneaP3.png" target="_blank"></a> 
+</div>
 
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Carlos-juniorLUKE&bg_color=0d1117&color=7b68ee&line=a020f0&point=87ceeb&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
@@ -31,3 +35,5 @@
 <div align="center"> 
   <a href = "https://nadei.42sp.org.br/%22%3E<img align="center" alt="Isa-C" height="30" width="40" src="https://nadei.42sp.org.br/img/InsigneaP3.png" target="_blank"></a> 
 </div>
+
+![Snake animation](https://github.com/yuu-minew/yuu-minew/blob/output/github-contribution-grid-snake.svg)
