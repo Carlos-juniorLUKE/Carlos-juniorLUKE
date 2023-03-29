@@ -32,6 +32,8 @@
 ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
 ![DART](https://img.shields.io/badge/-DART-0D1117?style=for-the-badge&logo=dart&logoColor=1572B6&labelColor=0D1117)&nbsp
   ![FLUTTER](https://img.shields.io/badge/-FLUTTER-0D1117?style=for-the-badge&logo=flutter&logoColor=1572B6&labelColor=0D1117)&nbsp;
+  ![C](https://img.shields.io/badge/-C-0D1117?style=for-the-badge&logo=c&logoColor=1572B6&labelColor=0D1117)&nbsp;
+ 
 <div align="center"> 
   <a href = "https://nadei.42sp.org.br/%22%3E<img align="center" alt="Isa-C" height="30" width="40" src="https://nadei.42sp.org.br/img/InsigneaP3.png" target="_blank"></a> 
 </div>
