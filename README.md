@@ -27,10 +27,10 @@
  </div>
 
  ### Main skills:
-![Java](https://img.shields.io/badge/java-0D1117?style=for-the-badge&logo=java&labelColor=0D1117)&nbsp;
+![Java](https://img.shields.io/badge/java-0D1117?style=for-the-badge&logo=Java&labelColor=0D1117)&nbsp;
 ![HTML5](https://img.shields.io/badge/html5-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
-![DART](https://img.shields.io/badge/-DART-0D1117?style=for-the-badge&logo=dart&logoColor=1572B6&labelColor=0D1117)&nbsp
+![DART](https://img.shields.io/badge/-DART-0D1117?style=for-the-badge&logo=dart&logoColor=1572B6&labelColor=0D1117)&nbsp;
   ![FLUTTER](https://img.shields.io/badge/-FLUTTER-0D1117?style=for-the-badge&logo=flutter&logoColor=1572B6&labelColor=0D1117)&nbsp;
   ![C](https://img.shields.io/badge/-C-0D1117?style=for-the-badge&logo=c&logoColor=1572B6&labelColor=0D1117)&nbsp;
  
