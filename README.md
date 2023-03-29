@@ -2,18 +2,14 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=6000&pause=1000&color=15AEF7&center=falso&vCenter=falso&repeat=verdadeiro&width=600&height=60&lines=Hello%2C+I'm+Carlos+Front-end+Mobile+and+Web+Junior;+Developer+at+(dart-Flutter)+;Participated+in+the+42SP+Pool!++%40Pisciner42SP)](https://git.io/typing-svg)
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Carlos-juniorLUKE&theme=merko&hide_border=&border_radius=5.3&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-
 ![](https://komarev.com/ghpvc/?username=Carlos-juniorLUKE&color=blueviolet)
- 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Carlos-juniorLUKE&layout=compact&hide_border=true&title_color=da70d6&text_color=da70d6&bg_color=0d1117" />
+ <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Carlos-juniorLUKE&layout=compact&hide_border=true&title_color=da70d6&text_color=da70d6&bg_color=0d1117" />
 </div>
 
 ##
 <div align="left"> 
 <a href = "https://nadei.42sp.org.br/%22%3E"><img align="center" alt="Ste-C" height="135" width="135" src="https://nadei.42sp.org.br/img/InsigneaP3.png" target="_blank"></a> 
 </div>
-
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Carlos-juniorLUKE&bg_color=0d1117&color=7b68ee&line=a020f0&point=87ceeb&area=true&hide_border=true)](https://github.com/Carlos-juniorLUKE/github-readme-activity-graph)]
 
 
 <p align="center">
@@ -31,11 +27,7 @@
 ![HTML5](https://img.shields.io/badge/html5-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
 ![DART](https://img.shields.io/badge/-DART-0D1117?style=for-the-badge&logo=dart&logoColor=1572B6&labelColor=0D1117)&nbsp;
-  ![FLUTTER](https://img.shields.io/badge/-FLUTTER-0D1117?style=for-the-badge&logo=flutter&logoColor=1572B6&labelColor=0D1117)&nbsp;
-  ![C](https://img.shields.io/badge/-C-0D1117?style=for-the-badge&logo=c&logoColor=1572B6&labelColor=0D1117)&nbsp;
- 
-<div align="center"> 
-  <a href = "https://nadei.42sp.org.br/%22%3E<img align="center" alt="Isa-C" height="30" width="40" src="https://nadei.42sp.org.br/img/InsigneaP3.png" target="_blank"></a> 
-</div>
+![FLUTTER](https://img.shields.io/badge/-FLUTTER-0D1117?style=for-the-badge&logo=flutter&logoColor=1572B6&labelColor=0D1117)&nbsp;
+![C](https://img.shields.io/badge/-C-0D1117?style=for-the-badge&logo=c&logoColor=1572B6&labelColor=0D1117)&nbsp;
 
 ![Snake animation](https://github.com/yuu-minew/yuu-minew/blob/output/github-contribution-grid-snake.svg)
